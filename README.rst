@@ -10,28 +10,40 @@ This is a demo project (unfinished) to explore how to play with QuartzCore more 
 /!\ Launch project on iPad to look result /!\
 
 You can found usefull class to do few form:
+
 ODEllipse
+
 ODRectangle
 
 You can too found usefull component:
+
 ODStrokeColor: Draw form with stroke
+
 ODFillColor: Draw form with fill
+
 ODGradientColor: Draw form with gradient
 
 You can use it with Interface Builder with classes:
+
 ODEllipseFillView
+
 ODEllipseGradientView
+
 ODEllipseGradientView
+
 ODEllipseStrokeView
+
 ODRectangleGradientView
+
 ODRectangleFillView
+
 ODRectangleStrokeView
 
 In each class you can define your theme in method -(ODFillColor*)defaultTheme.
 
 Screenshot
 =======
-.. image:: https://raw.github.com/odemolliens/ODQuartz/screen.png
+.. image:: https://raw.github.com/odemolliens/ODQuartz/master/screen.png
 
 
 License
