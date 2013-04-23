@@ -7,7 +7,7 @@ What is it?
 
 This is a demo project (unfinished) to explore how to play with CoreGraphics more easily
 
-/!\ Launch project on iPad to look result /!\
+/!\ Launch project on iPad to have some result /!\
 
 You can found usefull class to do few form:
 
