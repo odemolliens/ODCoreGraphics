@@ -31,7 +31,7 @@ In each class you can define your theme in method -(ODFillColor*)defaultTheme.
 
 Screenshot
 =======
-.. image:: https://raw.github.com/odemolliens/android-sliding-menu-demo/ODQuartz/screen.png
+.. image:: https://raw.github.com/odemolliens/ODQuartz/screen.png
 
 
 License
