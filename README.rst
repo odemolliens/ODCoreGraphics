@@ -5,7 +5,7 @@
 What is it?
 ===========
 
-This is a demo project (unfinished) to explore how to play with QuartzCore more easily
+This is a demo project (unfinished) to explore how to play with CoreGraphics more easily
 
 /!\ Launch project on iPad to look result /!\
 
@@ -43,7 +43,7 @@ In each class you can define your theme in method -(ODFillColor*)defaultTheme.
 
 Screenshot
 =======
-.. image:: https://raw.github.com/odemolliens/ODQuartz/master/screen.png
+.. image:: https://raw.github.com/odemolliens/ODCoreGraphics/master/screen.png
 
 
 License
