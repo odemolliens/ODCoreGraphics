@@ -50,3 +50,9 @@ License
 =======
 
 Released under version 2.0 of the `Apache License <http://www.apache.org/licenses/LICENSE-2.0>`_
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/odemolliens/odcoregraphics/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
